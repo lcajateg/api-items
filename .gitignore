@@ -1,23 +1,47 @@
-# Compiled class file
-*.class
+*.iml
+*.iws
+*.launch
+.externalToolBuilders/
+.DS_Store
+.idea/
+.nb-gradle/
+.project
+.settings/
+atlassian-ide-plugin.xml
+nbactions.xml
+nbbuild/
+nbdist/
+nbproject/private/
+desktop.ini/
+.classpath
+.factorypath
+.springBeans
+target
 
-# Log file
-*.log
 
-# BlueJ files
-*.ctxt
+### *** required entries below ***
+###
+### Please do not add anything below this line, your changes will be overwritten
+###
+.DS.d74cb6fe
+__MACOSX/
+.history/
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/3f674
+!.vscode/extensions.json
+*.code-workspace
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+
+###
+###                                                                                                                                                                                                                                  git#259700
+###
